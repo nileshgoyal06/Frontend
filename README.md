@@ -1,6 +1,6 @@
 
 
-🔗 **Live Demo:** [https://pii-mask.vercel.app/](https://pii-mask.vercel.app/)
+🔗 **Live Demo:** [https://pii-mask.vercel.app/](https://textextractimage.vercel.app/)
 
 ---
 
